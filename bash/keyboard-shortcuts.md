@@ -1,9 +1,6 @@
 ---------
-bash readlines
+bash keyboard shortcuts
 ---------
-
-Have you ever actually sat and read through the bash docs? Neither have I.
-There's a whole bunch of weird stuff in there though. I'm sticking it here for personal reference and because these obscure little functions sometimes turn out to have security implications.
 
 - `ctrl a` start of line
 - `ctrl e` end of line
