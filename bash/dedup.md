@@ -14,6 +14,6 @@ show unique by an individual column
 
 
 references
-[@M_C_Stott](https://twitter.com/M_C_Stott/status/1255388471977484288)
 
-[(archived)](http://archive.is/g7cod)
+[@M_C_Stott](https://twitter.com/M_C_Stott/status/1255388471977484288) 
+([archived](http://archive.is/g7cod))
