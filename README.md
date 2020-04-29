@@ -13,6 +13,7 @@
 ### bash
 
 - [bash keyboard shortcuts](bash/keyboard-shortcuts.md)
+- [deduplicate lines in a text file](bash/dedup.md)
 
 ### git
 
