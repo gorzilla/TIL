@@ -1,6 +1,4 @@
----------
-bash keyboard shortcuts
----------
+# bash keyboard shortcuts
 
 - `ctrl a` start of line
 - `ctrl e` end of line
@@ -26,5 +24,6 @@ there's some that work on a per word basis but i can't see it saving enough time
 ![cli cheatsheet](https://clementc.github.io/figures/moving_cli.png)
 
 
-As long as I'm just linking other people's stuff here's b0rk
+As long as I'm just linking other people's stuff here's Julia Evans
+
 ![julia evans' bash tricks](https://i.stack.imgur.com/RjLje.jpg)

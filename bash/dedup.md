@@ -10,6 +10,7 @@ show unique by an individual column
 `awk '!_[$1]++' file.txt`
 
 
-references
+### references
+
 [@M_C_Stott](https://twitter.com/M_C_Stott/status/1255388471977484288)
-[backup](http://archive.is/g7cod)
+[(backup)](https://archive.is/g7cod)

@@ -22,3 +22,7 @@
 ### ssh
 
 - [ssh-agent with systemd](ssh/systemd.md)
+
+### zip
+
+- [Run a script from a zip file](zip/python-zip.md)
