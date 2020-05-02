@@ -1,12 +1,15 @@
-#Duplicate lines in a text file
+ # Duplicate lines in a text file
 
 Remove duplicate lines from a file without changing the order
+
 `awk '!_[$0]++' file.txt`
 
 Show only duplicates
+
 `awk '_[$0]++' file.txt`
 
 show unique by an individual column
+
 `awk '!_[$1]++' file.txt`
 
 
