@@ -16,4 +16,4 @@ HTTP URL| `http.request.full_uri`
 TLS server identifier| `ssl.handshake.extensions_server_name`
 [JA3](ja3.md) signature| `ja3.hash`
 
-\* requires you to manually add a geoIP db first.
+\* requires you to manually [add a geoIP db](https://wiki.wireshark.org/HowToUseGeoIP) first.
