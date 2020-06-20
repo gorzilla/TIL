@@ -30,7 +30,7 @@ You can view this as a gitbook @ [notes.gorzilla.co.uk](https://notes.gorzilla.c
 ### wireshark
 
 * [show ja3 hashes in wireshark](wireshark/ja3.md)
-* [show full URLs in the packet list window](wireshark/ja3.md)
+* [show full URLs in the packet list window](wireshark/addcolumn.md)
 
 ### zip
 
