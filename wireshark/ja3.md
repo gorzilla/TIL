@@ -5,4 +5,4 @@ A ja3 hash is a way of fingerprinting different TLS configurations made by looki
 First step is to add a couple of .lua files found from [this repo](https://github.com/fullylegit/ja3) to your plugins dir
 (on my mac it's `~/.config/wireshark/plugins`)
 
-Then when you restart wireshark, find a TLS handshake with `ssl.handshake` and you should notice a new layer below SSL.
+Then when you restart wireshark, find a TLS handshake with `tls.handshake` and you should notice a new layer in the packet details window.
