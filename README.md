@@ -8,11 +8,13 @@ You can view this as a gitbook @ [notes.gorzilla.co.uk](https://notes.gorzilla.c
 
 ## Categories
 
-* [bash](#bash)
-* [git](#git)
-* [ssh](#ssh)
-* [wireshark](#wireshark)
-* [zip](#wireshark)
+- [TIL](#til)
+  - [Categories](#categories)
+    - [bash](#bash)
+    - [git](#git)
+    - [ssh](#ssh)
+    - [wireshark](#wireshark)
+    - [zip](#zip)
 
 ### bash
 
@@ -35,3 +37,5 @@ You can view this as a gitbook @ [notes.gorzilla.co.uk](https://notes.gorzilla.c
 ### zip
 
 * [Run a script from a zip file](zip/python-zip.md)
+
+test
