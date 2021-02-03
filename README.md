@@ -18,24 +18,22 @@ You can view this as a gitbook @ [notes.gorzilla.co.uk](https://notes.gorzilla.c
 
 ### bash
 
-* [bash keyboard shortcuts](bash/keyboard-shortcuts.md)
-* [deduplicate lines in a text file](bash/dedup.md)
+- [bash keyboard shortcuts](bash/keyboard-shortcuts.md)
+- [deduplicate lines in a text file](bash/dedup.md)
 
 ### git
 
-* [git can be a good place to keep notes](git/notes.md)
+- [git can be a good place to keep notes](git/notes.md)
 
 ### ssh
 
-* [ssh-agent with systemd](ssh/systemd.md)
+- [ssh-agent with systemd](ssh/systemd.md)
 
 ### wireshark
 
-* [show ja3 hashes in wireshark](wireshark/ja3.md)
-* [show full URLs in the packet list window](wireshark/addcolumn.md)
+- [show ja3 hashes in wireshark](wireshark/ja3.md)
+- [show full URLs in the packet list window](wireshark/addcolumn.md)
 
 ### zip
 
-* [Run a script from a zip file](zip/python-zip.md)
-
-test
+- [Run a script from a zip file](zip/python-zip.md)
